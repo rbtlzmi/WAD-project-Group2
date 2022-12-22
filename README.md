@@ -8,3 +8,18 @@ ALYA HUSNA BINTI IBRAHIM 2019748
 </pre>
  
 *Lecturer Dr. MOHD KHAIRUL AZMI BIN HASSAN*
+
+
+## Healthcare System
+
+## Introduction and Objectives
+<text>  
+
+## Features and Functionalities
+<text>
+
+## Entity Relationship Diagram
+<text>
+
+## Sequence Diagram
+<text>
