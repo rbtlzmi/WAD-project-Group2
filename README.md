@@ -45,7 +45,7 @@ Last but not least, after each appointment between patients and doctors, payment
  
 The Entity Relationship Diagram(ERD) displayed above consists of Entities which are Staff, Patient,Appointment, Prescription, Drug, and Billing. Every entity has their own unique primary key, some might have foreign keys and other attributes which applies to them. The ERD also shows the relationship between each entities which includes the multiplicity for each relationship. <br>
  
- To summarize the Healthcare System Relationship between Entities, one Staff can register 1 to many Patients. One Staff can also give prescription to 0 to multiple patients. One Patient can make 1 to multiple Appointment. Each Appointment will create one Prescription for one Patient and Appointment will also generate Billing for one Patient.
+ To summarize the Healthcare System Relationship between Entities, one Staff can register one to many Patients. One Staff can also give prescription to zero to multiple patients. One Patient can make one to multiple Appointment. Each Appointment will create one Prescription for one Patient and Appointment will also generate Billing for one Patient.
  
  
 
