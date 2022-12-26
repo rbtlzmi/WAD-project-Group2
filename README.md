@@ -40,7 +40,6 @@ Last but not least, after each appointment between patients and doctors, payment
 >
 
 ## Entity Relationship Diagram
-[INFO 2305_ERD drawio](https://user-images.githubusercontent.com/121216138/209477339-db8c0402-fdbb-40ff-886e-4078025dc743.png)
 ![Healthcare ERD](https://github.com/rbtlzmi/WAD-project-Group2/blob/c1bb3fa1f889dde50559b5415189907a68f4b9b7/HealthcareERD.png)
 
 ## Sequence Diagram
