@@ -40,7 +40,7 @@ Last but not least, after each appointment between patients and doctors, payment
 >
 
 ## Entity Relationship Diagram
-![Healthcare ERD](https://github.com/rbtlzmi/WAD-project-Group2/blob/c1bb3fa1f889dde50559b5415189907a68f4b9b7/HealthcareERD.png)
+![Healthcare ERD](https://github.com/rbtlzmi/WAD-project-Group2/blob/4b0747e5bfb8595c98964463df6a43bf2ae6dc2a/image%20file/HealthcareERD.png)
 
 ## Sequence Diagram
-![Healthcare SD](https://github.com/rbtlzmi/WAD-project-Group2/blob/46b879887cec12f900451bea4b32f53024990765/HealthcareSD.png)
+![Healthcare SD](https://github.com/rbtlzmi/WAD-project-Group2/blob/4b0747e5bfb8595c98964463df6a43bf2ae6dc2a/image%20file/HealthcareSD.png)
