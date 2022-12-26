@@ -1,4 +1,4 @@
-# <h1> project-proposal-WAD-Gp-2
+# <h1> INFO 3305 Project Proposal </h1>
 
 <pre>
 ISLAM MUNTAHA 1920920<br>
