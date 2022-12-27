@@ -51,3 +51,5 @@ The Entity Relationship Diagram(ERD) displayed above consists of Entities which 
 
 ## Sequence Diagram
 ![Healthcare SD](https://github.com/rbtlzmi/WAD-project-Group2/blob/4b0747e5bfb8595c98964463df6a43bf2ae6dc2a/image%20file/HealthcareSD.png)
+
+Firstly, unregistered staff will go through registration in the system, while for the existing or registered staffs they will just log in into the system. When a patient comes in, they will be registered by the staff. After that, the patient will request for an appointment which then, will be checked by the staff for the availability. Then, the staff will appoint the patient with the allocated time. The doctor will give the specififc prescription to the patient and the staff will generate the bill to be paid by the patient.
