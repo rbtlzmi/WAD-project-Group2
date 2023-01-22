@@ -56,7 +56,7 @@ The Entity Relationship Diagram(ERD) displayed above consists of Entities which 
 ## Sequence Diagram
 ![INFO3305 (5)](https://user-images.githubusercontent.com/107701670/213920772-ecd20e91-fe47-4d61-bc71-06995873656f.jpg)
 
-Firstly, unregistered staff will go through registration in the system, while for the existing or registered staffs they will just log in into the system. When a patient comes in, they will be registered by the staff. After that, the patient will request for an appointment which then, will be checked by the staff for the availability. Then, the staff will appoint the patient with the allocated time. The doctor will give the specififc prescription to the patient and the staff will generate the bill to be paid by the patient.
+Unregistered staff must first register in the system, whereas registered or existing staff can go directly to the login page to log in to the system. Patients must give the staff certain information when they get a new patient in order to register them in the system, such as their name. The staff will then schedule a time with the doctor based on the availability. For user safety reasons, the professionals will always prescribe new drugs or medications at appointments, thus the system must be maintained with all the relevant information. Finally, the staff will provide the patients' billing statement.
 
 ## Project System Captured and Explanation
 
