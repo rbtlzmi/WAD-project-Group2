@@ -98,8 +98,8 @@ Billing and payment is usually completed after treatment is received by the pati
 Dashboard page will be shown once the staff already login into the system. It will show the logo and description of our overall system. <br>
 ![DASHBOARD](https://user-images.githubusercontent.com/107701670/214007704-9c6026fc-6c21-489c-9cb3-d7a49b6a819b.png)
 
-**7. Database in MySQL** <br>
-All information submitted using this system will be kept in our MySQL database. This is crucial to ensure that no data is lost and that staff can instantly retrieve patient data, for example. As opposed to manual registration, all data will be retained securely and there won't be any data loss in the future. <br>
+**7. Database in PHPMyAdmin** <br>
+All information submitted using this system will be kept in our PHPMyAdmin database. This is crucial to ensure that no data is lost and that staff can instantly retrieve patient data, for example. As opposed to manual registration, all data will be retained securely and there won't be any data loss in the future. <br>
 ![WhatsApp Image 2023-01-23 at 5 36 49 PM](https://user-images.githubusercontent.com/107701670/214007817-a6a40871-34aa-4657-b0d5-388c2df3f8f7.jpeg)
 
 ## Challenges and Difficulties To Develop this Application
