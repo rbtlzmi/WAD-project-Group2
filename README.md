@@ -69,10 +69,10 @@ Staff members must fill out a variety of patient information before they may reg
 **3. Set a new appointment and List of Appointments Page** <br>
 Staff must use the appointment page to schedule new appointments for patients based on availability. The staff must enter the patient's ID, the name of the attending doctor, the date, and the time for the appointment. To avoid having duplicate information for other patients who want to schedule an appointment, all of these details are essential when setting a new appointment. To maintain track of their appointment records, a list of appointments is provided after the appointment is made.<br>
 
-**4. Prescription and List of Prescriptions** <br>
+**4. Prescription and List of Prescriptions Page** <br>
 The prescription page is rather straightforward because it only asks for the patient's ID and the medication that the doctor has prescribed. The staff must manually type the drug because there are several drugs used in the medical industry, making it simpler for them to do so. by themselves. A list of prescriptions is provided once the prescription is issued so that staffs can keep track of their patients' medical history and medication given. <br>
 
-**5. Billing Payment and List of Payments** <br>
+**5. Billing Payment and List of Payments Page** <br>
 Billing and payment is usually completed after treatment is received by the patient at the clinic. Clinic billing includes the doctor's service and the medicine given. Each patient has their preferred payment method, therefore a choice of payment method is provided.To determine whether the patient has paid for their treatment or not, staff are also required to fill out the payment status. The invoice title is also provided so that the staff can use the billing receipt as a reference later on, for example calculating the clinic's profit and so on. Once the staff has done registering the patients' bills, the billing list will be shown in tables so they may keep track of their payment history. <br>
 
 **5. Database in MySQL** <br>
