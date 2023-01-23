@@ -70,18 +70,37 @@ The staff must enter a number of items of data on our registration page in order
 
 **2. Register Patient and List of Patients Page** <br>
 Staff members must fill out a variety of patient information before they may register a patient, including the patient's name, IC number, email, phone number, address, blood type, weight, height, and any pertinent medical history (relevant). To ensure that all patient records are saved for future use, this information is required. The patient list will be displayed in tables when the staff has finished registering the patients so they can maintain track of their patients' records.<br>
+![ADD PATIENT](https://user-images.githubusercontent.com/107701670/214006417-d42c0dc6-838d-46d4-b206-455607320671.png)
+![PATIENT LIST](https://user-images.githubusercontent.com/107701670/214006431-f8e3a20d-6882-4454-9d6c-6506dc4ed156.png)
 
 **3. Set a new appointment and List of Appointments Page** <br>
 Staff must use the appointment page to schedule new appointments for patients based on availability. The staff must enter the patient's ID, the name of the attending doctor, the date, and the time for the appointment. To avoid having duplicate information for other patients who want to schedule an appointment, all of these details are essential when setting a new appointment. To maintain track of their appointment records, a list of appointments is provided after the appointment is made.<br>
+![ADD APPOINTMENT](https://user-images.githubusercontent.com/107701670/214006609-0ad5c8f1-ef52-4729-aa90-51e2f96aaca4.png)
+![ADD APPOINTMENT DROPDOWN SELECT PATIENT](https://user-images.githubusercontent.com/107701670/214006628-9f9f389b-0aa2-4ccc-a344-8e34be374da0.png)
+![ADD APPOINTMENT DROPDOWN SELECT DOCTOR](https://user-images.githubusercontent.com/107701670/214006640-3c4a640e-787e-4c4f-a69e-57ec6a1cf1f7.png)
+![APPOINTMENT LIST](https://user-images.githubusercontent.com/107701670/214006688-b2035845-e4e2-4562-af02-644783e13aa9.png)
 
 **4. Prescription and List of Prescriptions Page** <br>
 The prescription page is rather straightforward because it only asks for the patient's ID and the medication that the doctor has prescribed. The staff must manually type the drug because there are several drugs used in the medical industry, making it simpler for them to do so. by themselves. A list of prescriptions is provided once the prescription is issued so that staffs can keep track of their patients' medical history and medication given. <br>
+![ADD PRESCRIPTION](https://user-images.githubusercontent.com/107701670/214006812-ff69fa49-8681-42a3-bef8-565a7b1cb533.png)
+![ADD PRESCRIPTION DROPDOWN SELECT PATIENT](https://user-images.githubusercontent.com/107701670/214006830-d9724703-511f-480d-8fe9-5e5a3e8a8fee.png)
+![PRESCRIPTION LIST](https://user-images.githubusercontent.com/107701670/214006936-3853dc09-637f-46c5-b7df-de590f493123.png)
 
 **5. Billing Payment and List of Payments Page** <br>
 Billing and payment is usually completed after treatment is received by the patient at the clinic. Clinic billing includes the doctor's service and the medicine given. Each patient has their preferred payment method, therefore a choice of payment method is provided.To determine whether the patient has paid for their treatment or not, staff are also required to fill out the payment status. The invoice title is also provided so that the staff can use the billing receipt as a reference later on, for example calculating the clinic's profit and so on. Once the staff has done registering the patients' bills, the billing list will be shown in tables so they may keep track of their payment history. <br>
+![ADD BILLING](https://user-images.githubusercontent.com/107701670/214007089-c2372cea-7871-4be8-9496-4dd18021882d.png)
+![ADD BILLING DROPDOWN SELECT PATIENT](https://user-images.githubusercontent.com/107701670/214007133-14f92968-432f-4233-a241-55b8cabbbb08.png)
+![ADD BILLING DROPDOWN PAYMENT STATUS](https://user-images.githubusercontent.com/107701670/214007154-abc3ec06-a91f-46ab-8703-ddbaf7385bdf.png)
+![ADD BILLING DROPDOWN PAYMENT METHOD](https://user-images.githubusercontent.com/107701670/214007181-8a880255-2166-4bb5-a4f8-c6644ed4c0f5.png)
+![BILLING LIST](https://user-images.githubusercontent.com/107701670/214007206-be603cf1-46dc-4db7-aa1a-86af72d4646f.png)
 
-**5. Database in MySQL** <br>
+**6. Dashboard Page** <br>
+Dashboard page will be shown once the staff already login into the system. It will show the logo and description of our overall system. <br>
+![DASHBOARD](https://user-images.githubusercontent.com/107701670/214007704-9c6026fc-6c21-489c-9cb3-d7a49b6a819b.png)
+
+**7. Database in MySQL** <br>
 All information submitted using this system will be kept in our MySQL database. This is crucial to ensure that no data is lost and that staff can instantly retrieve patient data, for example. As opposed to manual registration, all data will be retained securely and there won't be any data loss in the future. <br>
+![WhatsApp Image 2023-01-23 at 5 36 49 PM](https://user-images.githubusercontent.com/107701670/214007817-a6a40871-34aa-4657-b0d5-388c2df3f8f7.jpeg)
 
 ## Challenges and Difficulties To Develop this Application
 We encountered a lot of difficulties when developing this healthcare application. One of them is an error caused by our oversights, such as failing to capitalise certain terms, omitting to include certain symbols, or failing to update our routing code to match the new controllers. As a result, our modules become inaccessible, and it takes us a while to find every error. In addition, introducing more features like the update delete button and similar ones presents challenges. After consulting online resources, we ultimately had to improvise our code to make it function. This taught us to maintain our composure and continually try new things in order to come up with excellent and appropriate solutions for our project. Despite the numerous issues and challenges we encountered, we eventually managed to come up with a solution and were able to finish each module. We really appreciate one another's cooperation in developing our healthcare system applications.
