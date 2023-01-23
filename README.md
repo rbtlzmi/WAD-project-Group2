@@ -45,7 +45,8 @@ Last but not least, after each appointment between patients and doctors, payment
 >
 
 ## Entity Relationship Diagram
-![Healthcare ERD](https://user-images.githubusercontent.com/121216138/209545894-86056c12-0fe2-4fd5-a927-596bddeda491.png)
+![INFO 2305_ERD](https://user-images.githubusercontent.com/121216138/214041160-4f9f424a-39c7-41de-b0a9-887bedd575a4.png)
+
  
 The Entity Relationship Diagram(ERD) displayed above consists of Entities which are Staff, Patient,Appointment, Prescription and Billing. Every entity has their own unique primary key, some might have foreign keys and other attributes which applies to them. The ERD also shows the relationship between each entities which includes the multiplicity for each relationship. <br>
  
