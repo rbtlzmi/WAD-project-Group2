@@ -90,8 +90,8 @@ The prescription page is rather straightforward because it only asks for the pat
 Billing and payment is usually completed after treatment is received by the patient at the clinic. Clinic billing includes the doctor's service and the medicine given. Each patient has their preferred payment method, therefore a choice of payment method is provided.To determine whether the patient has paid for their treatment or not, staff are also required to fill out the payment status. The invoice title is also provided so that the staff can use the billing receipt as a reference later on, for example calculating the clinic's profit and so on. Once the staff has done registering the patients' bills, the billing list will be shown in tables so they may keep track of their payment history. <br>
 ![ADD BILLING](https://user-images.githubusercontent.com/107701670/214007089-c2372cea-7871-4be8-9496-4dd18021882d.png)
 ![ADD BILLING DROPDOWN SELECT PATIENT](https://user-images.githubusercontent.com/107701670/214007133-14f92968-432f-4233-a241-55b8cabbbb08.png)
-![ADD BILLING DROPDOWN PAYMENT STATUS](https://user-images.githubusercontent.com/107701670/214007154-abc3ec06-a91f-46ab-8703-ddbaf7385bdf.png)
 ![ADD BILLING DROPDOWN PAYMENT METHOD](https://user-images.githubusercontent.com/107701670/214007181-8a880255-2166-4bb5-a4f8-c6644ed4c0f5.png)
+![ADD BILLING DROPDOWN PAYMENT STATUS](https://user-images.githubusercontent.com/107701670/214007154-abc3ec06-a91f-46ab-8703-ddbaf7385bdf.png)
 ![BILLING LIST](https://user-images.githubusercontent.com/107701670/214007206-be603cf1-46dc-4db7-aa1a-86af72d4646f.png)
 
 **6. Dashboard Page** <br>
