@@ -62,6 +62,11 @@ Unregistered staff must first register in the system, whereas registered or exis
 
 **1. Register Staff and Login Page for Authentication** <br>
 The staff must enter a number of items of data on our registration page in order to log in to the system. Name, email and password for authentication, IC number, phone number, address, and type of staff (doctor, regular staff, etc.) are just a few of the details required. Once the registration is complete, the employees can log in to the system by going to the login page. They need to fill in their email and password registered on the login page.   All records for staff can be seen on the staff page once the staff has already been entered into the system.<br>
+![REGISTER1](https://user-images.githubusercontent.com/107701670/214005908-c4fa0523-b1f8-456b-8afd-2d1620e3f2cc.png)
+![REGISTER2](https://user-images.githubusercontent.com/107701670/214006008-b97ea546-8081-44ca-b2ec-3e68775afd60.png)
+![LOGIN](https://user-images.githubusercontent.com/107701670/214006096-3a349661-8a3d-48ef-84f6-b85d5eb9bd15.png)
+![STAFF LIST](https://user-images.githubusercontent.com/107701670/214006170-407043de-de77-4509-b2f5-8985a5cfdb89.png)
+
 
 **2. Register Patient and List of Patients Page** <br>
 Staff members must fill out a variety of patient information before they may register a patient, including the patient's name, IC number, email, phone number, address, blood type, weight, height, and any pertinent medical history (relevant). To ensure that all patient records are saved for future use, this information is required. The patient list will be displayed in tables when the staff has finished registering the patients so they can maintain track of their patients' records.<br>
