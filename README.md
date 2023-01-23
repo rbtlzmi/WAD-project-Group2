@@ -61,6 +61,7 @@ Unregistered staff must first register in the system, whereas registered or exis
 ## Project System Captured and Explanation
 
 **1. Register Staff and Login Page for Authentication** <br>
+The staff must enter a number of items of data on our registration page in order to log in to the system. Name, email and password for authentication, IC number, phone number, address, and type of staff (doctor, regular staff, etc.) are just a few of the details required. Once the registration is complete, the employees can log in to the system by going to the login page. They need to fill in their email and password registered on the login page.   All records for staff can be seen on the staff page once the staff has already been entered into the system.<br>
 
 **2. Register Patient and List of Patients Page** <br>
 Staff members must fill out a variety of patient information before they may register a patient, including the patient's name, IC number, email, phone number, address, blood type, weight, height, and any pertinent medical history (relevant). To ensure that all patient records are saved for future use, this information is required. The patient list will be displayed in tables when the staff has finished registering the patients so they can maintain track of their patients' records.<br>
@@ -73,6 +74,9 @@ The prescription page is rather straightforward because it only asks for the pat
 
 **5. Billing Payment and List of Payments** <br>
 Billing and payment is usually completed after treatment is received by the patient at the clinic. Clinic billing includes the doctor's service and the medicine given. Each patient has their preferred payment method, therefore a choice of payment method is provided.To determine whether the patient has paid for their treatment or not, staff are also required to fill out the payment status. The invoice title is also provided so that the staff can use the billing receipt as a reference later on, for example calculating the clinic's profit and so on. Once the staff has done registering the patients' bills, the billing list will be shown in tables so they may keep track of their payment history. <br>
+
+**5. Database in MySQL** <br>
+All information submitted using this system will be kept in our MySQL database. This is crucial to ensure that no data is lost and that staff can instantly retrieve patient data, for example. As opposed to manual registration, all data will be retained securely and there won't be any data loss in the future. <br>
 
 ## Challenges and Difficulties To Develop this Application
 We encountered a lot of difficulties when developing this healthcare application. One of them is an error caused by our oversights, such as failing to capitalise certain terms, omitting to include certain symbols, or failing to update our routing code to match the new controllers. As a result, our modules become inaccessible, and it takes us a while to find every error. In addition, introducing more features like the update delete button and similar ones presents challenges. After consulting online resources, we ultimately had to improvise our code to make it function. This taught us to maintain our composure and continually try new things in order to come up with excellent and appropriate solutions for our project. Despite the numerous issues and challenges we encountered, we eventually managed to come up with a solution and were able to finish each module. We really appreciate one another's cooperation in developing our healthcare system applications.
