@@ -65,7 +65,7 @@ Unregistered staff must first register in the system, whereas registered or exis
 The staff must enter a number of items of data on our registration page in order to log in to the system. Name, email and password for authentication, IC number, phone number, address, and type of staff (doctor, regular staff, etc.) are just a few of the details required. Once the registration is complete, the employees can log in to the system by going to the login page. They need to fill in their email and password registered on the login page.   All records for staff can be seen on the staff page once the staff has already been entered into the system.<br>
 ![REGISTER1](https://user-images.githubusercontent.com/107701670/214005908-c4fa0523-b1f8-456b-8afd-2d1620e3f2cc.png)
 ![REGISTER2](https://user-images.githubusercontent.com/107701670/214006008-b97ea546-8081-44ca-b2ec-3e68775afd60.png)
-![LOGIN](https://user-images.githubusercontent.com/107701670/214006096-3a349661-8a3d-48ef-84f6-b85d5eb9bd15.png)
+![LOGIN](https://user-images.githubusercontent.com/107787584/214107688-b3fe8734-a4ad-4d90-8dea-1d80f995b103.png)
 ![STAFF LIST](https://user-images.githubusercontent.com/107701670/214006170-407043de-de77-4509-b2f5-8985a5cfdb89.png)
 
 
