@@ -1,0 +1,2 @@
+<img src="build/assets/img/healthwebsystem-logo.png" alt="" style="width:128px";>
+<?php /**PATH C:\xampp\htdocs\healthweb\resources\views/vendor/jetstream/components/application-logo.blade.php ENDPATH**/ ?>
